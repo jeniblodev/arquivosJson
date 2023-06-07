@@ -1,0 +1,62 @@
+[
+    {
+      "titulo": "The Witcher 3: Wild Hunt",
+      "capa": "https://example.com/capas/the-witcher-3.jpg",
+      "preco": 4.99,
+      "descricao": "Um RPG de ação épico com um mundo aberto vasto e envolvente."
+    },
+    {
+      "titulo": "Grand Theft Auto V",
+      "capa": "https://example.com/capas/gta-v.jpg",
+      "preco": 2.99,
+      "descricao": "Um jogo de ação em mundo aberto, onde você pode assumir o papel de três protagonistas e explorar uma cidade cheia de possibilidades."
+    },
+    {
+      "titulo": "The Last of Us Part II",
+      "capa": "https://example.com/capas/the-last-of-us-2.jpg",
+      "preco": 5.99,
+      "descricao": "Uma aventura pós-apocalíptica de sobrevivência em um mundo infestado por zumbis e facções em conflito."
+    },
+    {
+      "titulo": "Red Dead Redemption 2",
+      "capa": "https://example.com/capas/red-dead-redemption-2.jpg",
+      "preco": 1.99,
+      "descricao": "Um épico de ação no Velho Oeste, com uma história imersiva e um vasto mundo aberto para explorar."
+    },
+    {
+      "titulo": "Assassin's Creed Valhalla",
+      "capa": "https://example.com/capas/assassins-creed-valhalla.jpg",
+      "preco": 7.99,
+      "descricao": "Viaje para a era viking e assuma o papel de um feroz guerreiro em uma luta por poder e glória."
+    },
+    {
+      "titulo": "Cyberpunk 2077",
+      "capa": "https://example.com/capas/cyberpunk-2077.jpg",
+      "preco": 3.99,
+      "descricao": "Um RPG de ação futurista, onde você explora uma cidade cyberpunk cheia de conspirações e tecnologia avançada."
+    },
+    {
+      "titulo": "God of War",
+      "capa": "https://example.com/capas/god-of-war.jpg",
+      "preco": 2.99,
+      "descricao": "Assuma o papel de Kratos, um poderoso guerreiro espartano, e enfrente deuses e criaturas mitológicas em uma busca de vingança."
+    },
+    {
+      "titulo": "FIFA 22",
+      "capa": "https://example.com/capas/fifa-22.jpg",
+      "preco": 1.99,
+      "descricao": "O mais recente jogo de futebol da série FIFA, com gráficos realistas e jogabilidade envolvente."
+    },
+    {
+      "titulo": "Call of Duty: Warzone",
+      "capa": "https://example.com/capas/call-of-duty-warzone.jpg",
+      "preco": 4.99,
+      "descricao": "Um jogo de batalha real gratuito, onde você luta pela sobrevivência em um campo de batalha intenso."
+    },
+    {
+      "titulo": "Minecraft",
+      "capa": "https://example.com/capas/minecraft.jpg",
+      "preco": 2.99,
+      "descricao": "Um jogo de construção e exploração, onde você pode criar seu próprio mundo e sobreviver em um ambiente cheio de possibilidades."
+    }
+  ]
