@@ -1,10 +1,4 @@
 {
-  "planoBronze": {
-    "tipo": "BRONZE",
-    "jogosIncluidosNoPlano": 0,
-    "mensalidade": 0,
-    "percentualDesconto": 0
-  },
   "planoPrata": {
     "tipo": "PRATA",
     "jogosIncluidosNoPlano": 3,
