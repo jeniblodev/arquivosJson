@@ -1,26 +1,26 @@
-{
-  "planoPrata": {
+[
+  {
     "tipo": "PRATA",
     "jogosIncluidosNoPlano": 3,
     "mensalidade": 9.99,
     "percentualDesconto": 2.0
   },
-  "planoOuro": {
+  {
     "tipo": "OURO",
     "jogosIncluidosNoPlano": 5,
     "mensalidade": 14.99,
     "percentualDesconto": 5.0
   },
-  "planoPlatina": {
+  {
     "tipo": "PLATINA",
     "jogosIncluidosNoPlano": 10,
     "mensalidade": 19.99,
     "percentualDesconto": 8.0
   },
-  "planoDiamante": {
+  {
     "tipo": "DIAMANTE",
     "jogosIncluidosNoPlano": 100,
     "mensalidade": 29.99,
     "percentualDesconto": 0
   }
-}
+]
