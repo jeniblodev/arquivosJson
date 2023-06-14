@@ -5,47 +5,41 @@
       "email": "moni@email.com",
       "dataNascimento": "15/03/1995",
       "usuario": "moni",
-      "idInterno": "moni#1234",
-      "plano": "DIAMANTE"
+      "idInterno": "moni#1234"
     },
     {
       "nome": "Ana",
       "email": "ana@email.com",
       "dataNascimento": "28/07/1990",
       "usuario": "aninha",
-      "idInterno": "aninha#5678",
-      "plano": "PRATA"
+      "idInterno": "aninha#5678"
     },
     {
       "nome": "Guilherme",
       "email": "guilherme@email.com",
       "dataNascimento": "10/11/1998",
       "usuario": "gui",
-      "idInterno": "gui#9012",
-      "plano": "BRONZE"
+      "idInterno": "gui#9012"
     },
     {
       "nome": "Caroline",
       "email": "carol@email.com",
       "dataNascimento": "02/05/1992",
       "usuario": "carowl",
-      "idInterno": "carowl#3456",
-      "plano": "OURO"
+      "idInterno": "carowl#3456"
     },
     {
       "nome": "Bruno",
       "email": "bruno@email.com",
       "dataNascimento": "19/09/1987",
       "usuario": "bruno",
-      "idInterno": "bruno#7890",
-      "plano": "PRATA"
+      "idInterno": "bruno#7890"
     },
     {
       "nome": "Camila",
       "email": "camila@email.com",
       "dataNascimento": "07/12/1993",
       "usuario": "mila",
-      "idInterno": "mila#7890",
-      "plano": "PLATINA"
+      "idInterno": "mila#7890"
     }
   ]
